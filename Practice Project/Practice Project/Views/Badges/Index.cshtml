@@ -1,0 +1,47 @@
+﻿@model Practice_Project.Models.Badges
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    div.buttons
+    {
+        float :right;
+        margin-top: 20px;
+    }
+</style>
+
+<div class="badge">
+    <h1>Badges</h1>    
+</div>
+
+<div class="buttons">
+    
+    <a asp-controller="Badges" asp-action="Index">
+        <input type="button" class="btn btn-primary" value="Generate Badges"  />
+    </a>
+
+    <a asp-controller="Badges" asp-action="Index">
+        <input type="button" class="btn btn-primary" value=" Export Print List" />
+    </a>
+</div>
+
+<hr style="border:2px solid #808080"; />
+
+
+<div>
+
+
+    @using (Html.BeginForm("Index", "Badges", FormMethod.Post))
+    {
+
+        <b>Include attendees who have already had badges printed? </b>
+        <br />
+        @Html.RadioButtonFor(m => m.include, "Yes")
+        <span> Yes </span>
+        @Html.RadioButtonFor(m => m.include, "No")
+        <span> No </span>
+
+
+    }
+
+</div>

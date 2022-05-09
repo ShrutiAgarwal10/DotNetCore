@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Practice_Project.Models.SessionsTable>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SessionName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MobileId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpeakerName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SessionName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MobileId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SpeakerName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AmsId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AmsId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AmsId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

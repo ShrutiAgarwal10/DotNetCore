@@ -1,0 +1,38 @@
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Practice Project.exe
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Practice Project.deps.json
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Practice Project.runtimeconfig.json
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Practice Project.runtimeconfig.dev.json
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Practice Project.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Practice Project.pdb
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Practice Project.Views.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Practice Project.Views.pdb
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.csproj.AssemblyReference.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.AssemblyInfoInputs.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.AssemblyInfo.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.csproj.CoreCompileInputs.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.MvcApplicationPartsAssemblyInfo.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.RazorAssemblyInfo.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.RazorAssemblyInfo.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\staticwebassets\Practice Project.StaticWebAssets.Manifest.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\staticwebassets\Practice Project.StaticWebAssets.xml
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Practice Project.styles.css
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.TagHelpers.input.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.TagHelpers.output.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.RazorCoreGenerate.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.RazorTargetAssemblyInfo.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.RazorTargetAssemblyInfo.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.Views.pdb
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.dll
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.pdb
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.genruntimeconfig.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Practice Project.csproj.CopyComplete

@@ -1,0 +1,327 @@
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.csproj.AssemblyReference.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.AssemblyInfoInputs.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.AssemblyInfo.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.csproj.CoreCompileInputs.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.MvcApplicationPartsAssemblyInfo.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.RazorAssemblyInfo.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.RazorAssemblyInfo.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\staticwebassets\PracticeProject.StaticWebAssets.Manifest.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\staticwebassets\PracticeProject.StaticWebAssets.xml
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\PracticeProject.styles.css
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.TagHelpers.input.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.TagHelpers.output.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.RazorCoreGenerate.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.dll
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.pdb
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.RazorTargetAssemblyInfo.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.RazorTargetAssemblyInfo.cs
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.exe
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.deps.json
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.runtimeconfig.json
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.runtimeconfig.dev.json
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.pdb
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.Views.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.Views.pdb
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.Views.pdb
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.genruntimeconfig.cache
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.csproj.CopyComplete
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Attendees\Index.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Attendees\Create.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\Index.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\ConferenceSetup\Index.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Sessions\Index.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Sponsors\Index.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Members\Index.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Badges\Index.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Attendees\Edit.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Attendees\Delete.cshtml.g.cs
+D:\.netcore\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Attendees\Details.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.StaticWebAssets.xml
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.exe
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.deps.json
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.runtimeconfig.json
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.runtimeconfig.dev.json
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.pdb
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.Views.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\PracticeProject.Views.pdb
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.csproj.AssemblyReference.cache
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.AssemblyInfoInputs.cache
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.AssemblyInfo.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.csproj.CoreCompileInputs.cache
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.RazorAssemblyInfo.cache
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.RazorAssemblyInfo.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\staticwebassets\PracticeProject.StaticWebAssets.Manifest.cache
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.TagHelpers.input.cache
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.TagHelpers.output.cache
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.RazorCoreGenerate.cache
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Attendees\Create.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Attendees\Delete.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Attendees\Details.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Attendees\Edit.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Attendees\Index.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Badges\Index.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Client\Index.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\ConferenceSetup\Index.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Members\Index.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Sessions\Index.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Sponsors\Index.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.RazorTargetAssemblyInfo.cache
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.RazorTargetAssemblyInfo.cs
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.Views.pdb
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.csproj.CopyComplete
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.dll
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.pdb
+D:\Shruti laptop111\444\Practice Project\Practice Project\obj\Debug\netcoreapp3.1\PracticeProject.genruntimeconfig.cache
